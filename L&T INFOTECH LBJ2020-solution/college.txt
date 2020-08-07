@@ -1,0 +1,1 @@
+"['College_Id', 'College_Name', 'Course_Type', 'City', 'Fees', 'PinCode']","['2117', 'Rit', 'CSE', 'Chennai', '140000', '600021']","['2124', 'STJ', 'ECE', 'ECR', '150000', '600043']"
